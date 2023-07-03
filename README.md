@@ -6,4 +6,4 @@
 </ol>
 
 ## MÔ HÌNH
-<img src="./BG.png" alt="use case system"/>
+<img src="/Resources/BG.png" alt="use case system"/>
